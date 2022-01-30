@@ -28,3 +28,6 @@ tmp
 ~ftp
 ~nobody
 ~root
+php.ini
+mod_cluster-manager
+balancer-manager
